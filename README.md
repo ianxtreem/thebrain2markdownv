@@ -1,5 +1,6 @@
 # thebrain2markdown
-Convert exports from TheBrain to Markdown
+Convert exports from TheBrain to Markdown.mWorks for v14 data. For text, icons, 
+internal and external files and images. Not tested for any other features.
 
 1. Export your thoughts from TheBrain to `json`.
 2. Edit the script if needed (paths to the json files)
