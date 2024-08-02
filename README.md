@@ -2,6 +2,9 @@
 Convert exports from TheBrain to Markdown.mWorks for v14 data. For text, icons, 
 internal and external files and images. Not tested for any other features.
 
+WARNING:  This is just a hack of somebody elses hack.  You may have to fix bugs 
+or add features as necessary.
+
 1. Export your thoughts from TheBrain to `json`.
 2. Edit the script if needed (paths to the json files)
 
@@ -9,7 +12,7 @@ internal and external files and images. Not tested for any other features.
 ## How to
 You will need:
 * Python 3+
-* html2markdown
+* html2markdown:  This really isn't needed as TBv14 saves its notes in md.
 
 1. Export your TheBrain files: File > Export > JSON Files
 2. Download the script
